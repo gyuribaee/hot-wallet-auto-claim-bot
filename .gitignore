@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Local data (contains private keys)
+data/
+data/accounts.json
+
+# Log files
+data/bot.log
+
+# Env file
+.env
+.env.local
